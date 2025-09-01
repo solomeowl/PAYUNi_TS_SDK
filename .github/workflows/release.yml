@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: read
-      id-token: write # for npm provenance
+      contents: write  # needed for GitHub Release
+      id-token: write  # for npm provenance
 
     steps:
     - name: Checkout code
