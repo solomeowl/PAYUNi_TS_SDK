@@ -340,7 +340,7 @@ export class PayuniApi {
     // Return raw response if not encrypted
     return {
       success: response.Status === 'SUCCESS',
-      message: response
+      message: response.Status === 'SUCCESS' ? response : (response.Message || response)
     };
   }
 }

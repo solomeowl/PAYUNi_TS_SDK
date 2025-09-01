@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2025-09-01
+
+### Fixed
+- **Error Message Display** - Fixed `[object Object]` error messages to show proper error descriptions
+- **Response Processing** - Improved error handling in API response processing
+
 ## [1.0.0] - 2025-09-01
 
 ### Added
