@@ -1,0 +1,27 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.npm/
+.eslintcache
+
+# AI related files
+CLAUDE.md
+.cursorrules
+.aider*
+.continue/
+
+# Reference SDKs (for development only)
+PHP_SDK/
+NET_SDK/
+PAYUNi_PHP_SDK/
+PAYUNi_NET_SDK/
+payuni-php-sdk/
+payuni-net-sdk/
