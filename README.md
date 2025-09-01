@@ -1,3 +1,24 @@
+# PAYUNi TypeScript SDK
+
+[![npm version](https://badge.fury.io/js/payuni-ts-sdk.svg)](https://badge.fury.io/js/payuni-ts-sdk)
+[![npm downloads](https://img.shields.io/npm/dm/payuni-ts-sdk.svg)](https://www.npmjs.com/package/payuni-ts-sdk)
+[![GitHub license](https://img.shields.io/github/license/solomeowl/PAYUNi_TS_SDK.svg)](https://github.com/solomeowl/PAYUNi_TS_SDK/blob/main/LICENSE)
+[![CI](https://github.com/solomeowl/PAYUNi_TS_SDK/actions/workflows/ci.yml/badge.svg)](https://github.com/solomeowl/PAYUNi_TS_SDK/actions/workflows/ci.yml)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/node/v/payuni-ts-sdk.svg)](https://nodejs.org/)
+
+> 非官方的 PAYUNi 金流服務 TypeScript/JavaScript SDK，提供完整的型別安全和現代化的 API 設計。
+
+## 🚀 特色功能
+
+- ✅ **完整型別安全** - 100% TypeScript 支援
+- 🔐 **AES-256-GCM 加密** - 與官方 SDK 相同的安全標準  
+- 🌐 **17 種支付方式** - 涵蓋所有 PAYUNi 支援的支付管道
+- 🔄 **自動環境切換** - 支援正式/測試環境無縫切換
+- 📱 **跨平台相容** - Node.js 14+ 完美支援
+- 🧪 **完整測試覆蓋** - 81.53% 測試覆蓋率
+- 📚 **豐富範例** - 參考官方 SDK 結構的完整範例
+
 # 目錄
 * [環境需求](#環境需求)
 * [安裝](#安裝)
